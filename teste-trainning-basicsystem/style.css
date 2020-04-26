@@ -1,0 +1,50 @@
+body{
+    background-color: beige;
+}
+
+p{
+    text-align: center;
+    color: red;
+}
+
+p .alo{
+    color: blueviolet;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #35b8b8;
+    height: 100px;
+    /*width: 90px;*/
+}
+img{
+    width: 107px;
+}
+
+#div-esqueda{
+   background-color: aquamarine; 
+   min-height: 200px;
+   width: 60%;
+   float: left;
+}
+#div-direita{
+    background-color: chartreuse;
+    min-height: 200px;
+    width: 40%;
+    float: right;
+}
+footer{
+    clear: both;
+    background-color: blue;
+    height: 90px;
+    /*width: 90px;*/
+}
+
+.container{
+    width: 720px;
+    margin: 140px auto;
+}
